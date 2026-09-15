@@ -2,4 +2,6 @@ Base64 is a simple Android app for encoding and decoding Base64. You type in you
 
 This app requires Android 16 or higher and is only compatible with arm64-v8a devices
 
+For support or questions, join the Discord: https://discord.gg/8yrbGUCFFD
+
 Licensed under the Apache License 2.0
